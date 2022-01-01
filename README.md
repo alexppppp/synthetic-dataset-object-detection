@@ -1,1 +1,1 @@
-# synthetic-dataset-object-detection
+# How to Create Synthetic Dataset for Computer Vision (Object Detection) 
